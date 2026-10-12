@@ -27,9 +27,10 @@ python app.py
 ```
 
 Open:
-- http://localhost:8005/
-- http://localhost:8005/vendor
-- http://localhost:8005/captain
+- http://localhost:8005/ — onboarding dashboard with KPI cards and recent records
+- http://localhost:8005/records — full vendor and captain record overview
+- http://localhost:8005/vendor — vendor onboarding form
+- http://localhost:8005/captain — captain onboarding form
 
 ## Notes
 
